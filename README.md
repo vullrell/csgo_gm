@@ -1,15 +1,15 @@
 # csgo_gm
-A gamemode which looking the game CS:GO
 
-If you want change settings, go to files : csgo_gm/gamemode/sh_config.lua
+A gamemode that recreates the CS:GO gamemode.
 
-⌨️ Console Command (F10) :
-- Adding Admin : Use "CSGO_GM_AddAdmin". The admin can just set spawn for T and AT.
-- Adding Spawn : Use "CSGO_GM_AddSpawn". Add spawns to play !
+To change the settings, go to this file: `csgo_gm/gamemode/sh_config.lua`
 
-👩🏽‍💻 Add commits :
-- Contact to do change !
+⌨️ Console Commands (F10):
+- **Add Admin:** Use `CSGO_GM_AddAdmin`. Admins can set the spawn points for T and AT.
+- **Add Spawn:** Use `CSGO_GM_AddSpawn` to add spawn points.
 
-    
-📱 Contact :
-- Discord : VullRell#1983 (@vullrell)
+👩🏽‍💻 Contributions:
+- Contact me if you want to make a modification!
+
+📱 Contact:
+- Discord: VullRell#1983 (@vullrell)
